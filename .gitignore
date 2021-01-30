@@ -1,3 +1,3 @@
 *.pkl
 input/combine4.csv
-notesbooks/.ipynb_checkpoints
+notebooks/.ipynb_checkpoints
